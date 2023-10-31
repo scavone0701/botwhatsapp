@@ -19,9 +19,5 @@
         "latest-version": "^7.0.0",
         "socket.io": "^4.7.2",
         "venom-bot": "^4.2.1"
-    },
-    "devDependencies": {
-        "electron": "^27.0.0",
-        "electron-builder": "^24.6.4"
     }
 }
