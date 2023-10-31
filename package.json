@@ -7,9 +7,6 @@
     "scripts": {
         "start": "npm start"
     },
-    "bin": {
-        "meuapp": "app.js"
-    },
     "dependencies": {
         "apache": "^0.1.0",
         "axios": "^1.5.1",
