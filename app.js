@@ -23,7 +23,7 @@ O roteiro de atendimento é:
 venom
   .create({
     session: 'chatGPT_BOT',
-    headless: false,
+    headless: "new",
           
   })
   .then((client) => {
